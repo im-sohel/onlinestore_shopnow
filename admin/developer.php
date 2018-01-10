@@ -9,10 +9,10 @@
 <th>Email Id</th>
 </tr>
 <tr>
-<td>Sahim Reza</td>
+<td>Sohel Islam Mollick</td>
 <td>Information Technology</td>
 <td>C, C++, Java, Php</td>
-<td>8116017788</td>
-<td>rezasahim6@gmail.com</td>
+<td>8697609789</td>
+<td>sohelislammollick@gmail.com</td>
 </tr>
 </table>
